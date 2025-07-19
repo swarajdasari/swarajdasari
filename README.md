@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swaraj Dasari
 
-### 🚀 Full Stack MERN Developer | Problem Solver | AI/ML Enthusiast
+### 🚀 Full Stack WEB Developer | Problem Solver | AI/ML Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=swarajdasari&style=flat-square&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/swarajdasari?label=Follow&style=social)
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-I'm a passionate **Full Stack MERN Developer** with a knack for solving real-world problems through technology.  
+I'm a passionate **Full Stack WEB Developer** with a knack for solving real-world problems through technology.  
 I specialize in building **secure, scalable** applications and love working with **real-time systems** and **cutting-edge AI/ML tools**.
 
 ---
